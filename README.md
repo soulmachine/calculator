@@ -15,6 +15,11 @@ A versatile and extensible calculator implementation that supports basic operati
 5. IoC compatibility for easy testing and implementation swapping.
 6. Division by zero is handled gracefully by throwing an `ArithmeticException`.
 
+## Architecture
+
+![Architecture](./images/architecture.svg)
+
+
 ## How to Use
 
 
